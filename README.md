@@ -6,6 +6,7 @@ This project builds a neural network model using TensorFlow/Keras to classify ha
 It trains on labeled images and predicts labels for unseen test images.
 
 📌 What the Code Does
+
 1️⃣ Import Libraries
 import tensorflow as tf
 from tensorflow.keras.layers import Dense
